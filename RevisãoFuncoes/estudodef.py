@@ -1,17 +1,4 @@
-def mostralinha():
-    print("======================")
+def nomedafuncao(variavelimaginaria):
+    print(variavelimaginaria)
 
-
-
-mostralinha()
-print("sistema de transporte")
-mostralinha()
-
-mostralinha()
-print("sistema de comunicação")
-mostralinha()
-
-
-mostralinha()
-print("sistema de integração")
-mostralinha()
+nomedafuncao("oq eu quero que tenha dentro")
