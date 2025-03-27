@@ -19,8 +19,7 @@
 # Esse é um teste clássico em entrevistas, e a Sidia pode perguntar algo assim!
 # Manda seu código! 🚀
 
-dewwdc
-dsccwd
+
 
 
 x=1
