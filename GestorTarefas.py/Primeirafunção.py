@@ -2,8 +2,19 @@
 
 # O sistema deve pedir ao usuário para inserir uma nova tarefa (nome e prazo, por exemplo)."]
 
-def novatarefa(a):
-    a=input("deseja colocar uma nova tarefa?")
+def perguntanovatarefa(a):
+    a=input("deseja colocar uma nova tarefa? (s/n)")
 
-novatarefa()
+
+if perguntanovatarefa("") == "s":
+    NovaTarefa=input("digite a nova tarefa ")
+    lista=[NovaTarefa]
+else:
+    quit()
+
+
+
+s
+
+
 
