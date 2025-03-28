@@ -19,6 +19,12 @@
 # Esse é um teste clássico em entrevistas, e a Sidia pode perguntar algo assim!
 # Manda seu código! 🚀
 
+<<<<<<< HEAD:FizzBuzz .py
+=======
+
+
+
+>>>>>>> db6844b9628815bbd104ac1410b404bc7f5525ba:RevisãoBasePython/FizzBuzz .py
 x=1
 
 while x<31:
